@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b130c5bf-af99-453e-ad60-228f5fe5897f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/flask/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/templates/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask/templates/welcome.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b130c5bf-af99-453e-ad60-228f5fe5897f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +58,8 @@
       <file leaf-file-name="form.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/flask/templates/form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            <state relative-caret-position="52">
+              <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#form#0;n#!!top" expanded="true" />
               </folding>
@@ -158,13 +150,7 @@
             <path>
               <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
-              <item name="flask" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
-              <item name="flask" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="senior" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -234,6 +220,14 @@
       <option name="presentableId" value="Default" />
       <updated>1527130554289</updated>
     </task>
+    <task id="LOCAL-00001" summary="falsk">
+      <created>1527235349150</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527235349150</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -246,7 +240,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="430" y="142" width="1400" height="1000" extended-state="0" />
+    <frame x="467" y="371" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="12" weight="0.3298731" />
@@ -256,7 +250,7 @@
       <window_info anchor="bottom" id="Python Console" order="3" />
       <window_info anchor="bottom" id="Run" order="8" weight="0.3298611" />
       <window_info anchor="bottom" x="23" y="707" width="1866" height="280" id="Terminal" order="7" sideWeight="0.49946353" weight="0.6689815" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.22289157" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.22289157" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="2" weight="0.3298193" />
       <window_info anchor="right" id="SciView" order="0" weight="0.3298193" />
@@ -282,6 +276,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/wallpaper" />
     </ignored-roots>
+    <MESSAGE value="falsk" />
+    <option name="LAST_COMMIT_MESSAGE" value="falsk" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -423,8 +419,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/flask/templates/form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        <state relative-caret-position="52">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
           <folding>
             <element signature="n#style#0;n#p#0;n#form#0;n#!!top" expanded="true" />
           </folding>
