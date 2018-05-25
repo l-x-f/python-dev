@@ -1,0 +1,12 @@
+<form action="/signin" method="post">
+
+    {% if message %}
+    <p style="color:red">{{ message }}</p>
+    {% else %}
+    <p><input name="username" placeholder="请输入账户名" autocomplete="false"></p>
+    <p><input name="password" type="password" placeholder="请输入密码" autocomplete="false"></p>
+    <p>
+        <button type="submit">登录</button>
+    </p>
+    {% endif %}
+</form>
